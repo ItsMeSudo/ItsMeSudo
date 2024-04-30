@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**ItsMeSudo/ItsMeSudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Anyádon
+- 🌱 I’m currently learning Anyádat
+- 👯 I’m looking to collaborate on Anyádon
+- 🤔 I’m looking for help with Anyád
+- 💬 Ask me about Anyádról
+- 📫 How to reach me: Anyád#Anyád
+- 😄 Pronouns: Any/ád
+- ⚡ Fun fact: AnyádXDD
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ItsMeSudo&theme=highcontrast&hide_border=true&locale=hu&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)
